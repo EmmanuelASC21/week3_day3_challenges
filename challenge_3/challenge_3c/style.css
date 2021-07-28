@@ -16,3 +16,8 @@ div div {
 #big_div {
 	border: 5px solid black;
 }
+
+#sub_div1{
+	display: flex;
+	align-items: flex-start;
+}
